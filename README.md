@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elena-joseph
-- 👀 I’m interested in utilizing data science and machine learning skills to generate data-driven impact
+- 👀 I’m interested in utilizing data science and machine learning to generate data-driven impact
 - 🌱 I’m currently learning about cloud computing and optimization
 - 💞️ I’m looking to collaborate on using technology for social good
 - 📫 How to reach me: https://www.linkedin.com/in/elena-joseph-745596172/
